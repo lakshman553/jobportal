@@ -1,0 +1,48 @@
+﻿#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+  /*z-index:-1000;*/
+
+
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.fullscreenDiv {
+    background-color: #e8e8e8;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
+
+
+
+.loadingtext {
+    font-family: 'Limelight', cursive;
+    font-size:48px;
+    text-align: center;
+    color:#336699;
+    vertical-align: middle;
+    position: absolute;
+    width: 100%;
+    top: 35%;
+    margin-left: -50px; 
+    margin-top: -25px; 
+    text-shadow: 3px 2px 4px #88A3BF;
+
+}
+
