@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jobportal_loading", "jobportal\jobportal_loading.csproj", "{F98F3A5D-B4D2-4AE2-B4AC-F972E10019DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jobportal_beta", "jobportal_beta\jobportal_beta.csproj", "{473A4FB0-FBB2-4494-B883-A67822EB5FD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F98F3A5D-B4D2-4AE2-B4AC-F972E10019DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F98F3A5D-B4D2-4AE2-B4AC-F972E10019DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F98F3A5D-B4D2-4AE2-B4AC-F972E10019DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473A4FB0-FBB2-4494-B883-A67822EB5FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473A4FB0-FBB2-4494-B883-A67822EB5FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473A4FB0-FBB2-4494-B883-A67822EB5FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473A4FB0-FBB2-4494-B883-A67822EB5FD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
