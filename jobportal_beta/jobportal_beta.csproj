@@ -171,6 +171,7 @@
     <Content Include="css\main.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\flip\flip.js" />
     <Content Include="js\jquery\jquery-2.1.4.min.js" />
     <Content Include="js\materialize.min.js" />
     <Content Include="packages.config" />

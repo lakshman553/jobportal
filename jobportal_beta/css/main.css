@@ -10365,12 +10365,12 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     }
 }
 
-.card-panel.loginbox {
+.loginbox {
     position:fixed;
     top: 50%;
     left: 50%;
-    width:50em;
+    width:40em;
     height:auto;
     margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -25em; /*set to a negative number 1/2 of your width*/
+    margin-left: -20em; /*set to a negative number 1/2 of your width*/
 }
