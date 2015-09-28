@@ -1,20 +1,25 @@
-﻿
-.logotext {
-    /*background-color: #666666;*/
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    /*text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;*/
-    font-size:xx-large;
-    text-shadow: lightblue 0px 3px 3px;
+﻿ .rotate {
+        transform-origin:0% bottom;
+        -moz-transform-origin:0% bottom;
+        -webkit-transform-origin:0% bottom;
+        -o-transform-origin:0% bottom;
+        -ms-transform-origin:0% bottom;
+        transform:rotate(-90deg) translateY(100%);
+        -moz-transform:rotate(-90deg) translateY(100%);
+        -webkit-transform:rotate(-90deg) translateY(100%);
+        -o-transform:rotate(-90deg) translateY(100%);
+        -ms-transform:rotate(-90deg) translateY(100%);
+	    display: block;
+	    writing-mode: tb-rl;
+	    position: fixed;
+        left:0; bottom:0;
+	    margin: auto;
+        font-size:70px;
+        font-family: 'Limelight', cursive;
+    }
 
-}
-
-.logodiv {
-    width: 200px;
-    height: 100px;
-    background-color:#0077B5;
+.rotate sup {
+    font-size:20px;
 }
 
 .loginbox {
